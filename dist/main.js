@@ -1,0 +1,1 @@
+console.log({seeds:2,water:4,light:8});
